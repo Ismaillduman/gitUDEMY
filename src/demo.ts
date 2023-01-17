@@ -24,3 +24,21 @@ type User={
  const caruser= new carUser();
  console.log(caruser);
  
+
+ class Personx{
+    name:string;
+    email:string;
+    greet(){
+        return `Hello ${this.name} `;
+    }
+
+    constructor(name:string,email:string){
+this.email=email;
+this.name=name;
+    }
+}
+
+const personx = new Personx('scott', 'adam');
+const person2 = new Personx('scarlet', 'johnson');
+console.log(personx);
+console.log(person2);
