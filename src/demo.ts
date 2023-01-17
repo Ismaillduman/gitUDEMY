@@ -17,7 +17,7 @@ type User={
  class carUser implements User1{
      name="Ismail";
      surname= "duman";
-     DriverLicenseType= "B"
+     DriverLicenseType= "C"
 
  }
  
