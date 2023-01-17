@@ -39,7 +39,7 @@ this.name=name;
 }
 
 const personx = new Personx('scott', 'rose');
-const person2 = new Personx('adam', 'johnson');
+const person2 = new Personx('christian', 'johnson');
 console.log(personx);
 console.log(person2);
 
