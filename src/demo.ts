@@ -15,8 +15,8 @@ type User={
     DriverLicenseType:string;
  }
  class carUser implements User1{
-     name="Ismail";
-     surname= "duman";
+     name="YUSUF";
+     surname= "DUMAN";
      DriverLicenseType= "B"
 
  }
