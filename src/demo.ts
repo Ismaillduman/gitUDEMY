@@ -38,7 +38,7 @@ this.name=name;
     }
 }
 
-const personx = new Personx('scott', 'adam');
-const person2 = new Personx('scarlet', 'johnson');
+const personx = new Personx('john', 'adam');
+const person2 = new Personx('carol', 'johnson');
 console.log(personx);
 console.log(person2);
